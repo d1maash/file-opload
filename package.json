@@ -1,0 +1,25 @@
+{
+  "name": "loading-files",
+  "version": "1.0.0",
+  "description": "ExpressJs Function on Upload Files on WebSite without using DB",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d1maash/file-opload.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d1maash/file-opload/issues"
+  },
+  "homepage": "https://github.com/d1maash/file-opload#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.0.1"
+  }
+}
